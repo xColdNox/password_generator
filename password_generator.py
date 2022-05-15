@@ -1,7 +1,8 @@
 import random
+import string
 
-lowercase = "qwertyuioplkjhgfdsazxcvbnm"
-uppercase = "QWERTYUIOPLKJHGFDSAZXCVBNM"
+lowercase = string.ascii_lowercase
+uppercase = string.ascii_uppercase
 numbers = "1234567890"
 symbols = "!@#$%^&*=+"
 
