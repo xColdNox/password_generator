@@ -1,6 +1,5 @@
 import random
 
-
 lowercase = "qwertyuiopasdfghjklzxcvbnm"
 uppercase = "QWERTYUIOPASDFGHJKLZXCVBNM"
 numbers = "1234567890"
