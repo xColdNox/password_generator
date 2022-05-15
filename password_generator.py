@@ -1,8 +1,8 @@
 import random
 
-lowercase = "[a-z]"
-uppercase = "[A-Z]"
-numbers = "[0-9]"
+lowercase = "qwertyuioplkjhgfdsazxcvbnm"
+uppercase = "QWERTYUIOPLKJHGFDSAZXCVBNM"
+numbers = "1234567890"
 symbols = "!@#$%^&*=+"
 
 # below I create a password randomized from all the categories
